@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  TableViewDemo
+//  SimpleTableViewDemo
 //
 //  Created by aaron.harris on 5/14/19.
 //  Copyright © 2019 Aaron Harris. All rights reserved.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController, UITableViewDataSource {
+class SimpleTableViewController: UIViewController, UITableViewDataSource {
     var menuItems = ["Turkey Sandwich", "Tuna Sandwich", "BBQ Chicken Sandwich", "Roast Beef", "French Dip"]
     
     @IBOutlet weak var tableView: UITableView!
