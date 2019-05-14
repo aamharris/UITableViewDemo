@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		766D24A5228B3A7F00396030 /* LandingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766D24A4228B3A7F00396030 /* LandingViewController.swift */; };
+		766D24A7228B3D7A00396030 /* SectionTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766D24A6228B3D7A00396030 /* SectionTableViewController.swift */; };
 		7686F27A228B06D2004A2AD7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7686F279228B06D2004A2AD7 /* AppDelegate.swift */; };
 		7686F27C228B06D2004A2AD7 /* SimpleTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7686F27B228B06D2004A2AD7 /* SimpleTableViewController.swift */; };
 		7686F27F228B06D2004A2AD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7686F27D228B06D2004A2AD7 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		766D24A4228B3A7F00396030 /* LandingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingViewController.swift; sourceTree = "<group>"; };
+		766D24A6228B3D7A00396030 /* SectionTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionTableViewController.swift; sourceTree = "<group>"; };
 		7686F276228B06D2004A2AD7 /* TableViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7686F279228B06D2004A2AD7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7686F27B228B06D2004A2AD7 /* SimpleTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTableViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				7686F282228B06D4004A2AD7 /* LaunchScreen.storyboard */,
 				7686F285228B06D4004A2AD7 /* Info.plist */,
 				766D24A4228B3A7F00396030 /* LandingViewController.swift */,
+				766D24A6228B3D7A00396030 /* SectionTableViewController.swift */,
 			);
 			path = TableViewDemo;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				7686F27C228B06D2004A2AD7 /* SimpleTableViewController.swift in Sources */,
 				766D24A5228B3A7F00396030 /* LandingViewController.swift in Sources */,
+				766D24A7228B3D7A00396030 /* SectionTableViewController.swift in Sources */,
 				7686F27A228B06D2004A2AD7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
