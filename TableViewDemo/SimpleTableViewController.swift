@@ -15,7 +15,7 @@ class SimpleTableViewController: UIViewController, UITableViewDataSource {
     
     //setup number of items per section
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return 5
+        return menuItems.count
     }
     
     //called to render each cell in the table view
